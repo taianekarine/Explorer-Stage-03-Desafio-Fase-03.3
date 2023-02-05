@@ -48,7 +48,7 @@ https://www.figma.com/file/Yegg7eA2aL4CIDRdlGuxOL/Stage-03---Grid-com-anima%C3%A
 - Animações
 
 ## Você pode acessar o projeto e ver seus efeitos no site abaixo
-
+https://space-cream-grid.vercel.app/
 ---
 
 Feito com 🧡 by Taiane Karine

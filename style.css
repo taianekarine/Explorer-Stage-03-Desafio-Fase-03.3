@@ -271,8 +271,7 @@ footer a {
     'A B C'
     'D B E'
     'D F E';
-    padding-top: 2.4rem;
-  
+    padding: 2.4rem 5rem;
    }
   
    #wrapper-image div:nth-child(1) {

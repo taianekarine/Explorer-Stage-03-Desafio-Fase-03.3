@@ -39,7 +39,7 @@ body {
 }
 
 #page {
-  width: 32rem;
+  max-width: 32rem;
   margin: 0 auto;
   background-color: var(--c-page);
 }
@@ -180,15 +180,10 @@ footer {
     display: none;
   }
 
-  body {
-    margin: 0;
-    width: 76.8rem;
-  }
-
  #page {
   margin: 0;
   display: flex;
-  width: 76.8rem;
+  max-width: 117rem;
  }
 
  #text {
@@ -267,7 +262,7 @@ footer a {
 
 @media (min-width: 900px) {
   #page {
-    width: 110rem;
+    max-width: 117rem;
   }
 
   #wrapper-image {

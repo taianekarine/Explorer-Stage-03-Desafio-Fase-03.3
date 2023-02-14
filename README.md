@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto - Space Cream </h1>
+<h1 align="center"> Projeto - Space Cream Desktop </h1>
 
 <p align="center">
 Hora de colocar tudo o que foi visto no stage 03 do projeto Explorer da Rocketseat em pratica, criando um aplicativo para mobile na web.
